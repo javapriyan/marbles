@@ -28,7 +28,7 @@ cd fabric-samples
 Once you have cloned the repository start downloading the docker images of the various fabric components.
 
 ```bash
-curl -sSL https://goo.gl/iX9dek -o setup_script.sh
+curl -sSL https://goo.gl/fMh2s3 -o setup_script.sh
 sudo bash setup_script.sh
 ```
 
